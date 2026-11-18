@@ -23,12 +23,12 @@ FilmCountour — приложение для поиска и просмотра 
 
 | Платформа | Версия | Скачать |
 | --- | --- | --- |
-| Windows x64 | **1.0.2** | [Установщик .exe](https://github.com/EstySD/FilmCountour/releases/download/v1.0.2/FilmCountour-1.0.2-win64.exe) |
-| Linux x86_64 | **1.0.2** | [AppImage](https://github.com/EstySD/FilmCountour/releases/download/v1.0.2/FilmCountour-1.0.2-x86_64.AppImage) |
-| Android 8.0+ | **0.3.2** | [Подписанный APK](https://github.com/EstySD/FilmCountour/releases/download/v1.0.2/FilmCountour-Android-0.3.2.apk) |
+| Windows x64 | **1.0.31** | [Установщик .exe](https://github.com/EstySD/FilmCountour/releases/download/v1.0.31/FilmCountour-1.0.31-win64.exe) |
+| Linux x86_64 | **1.0.31** | [AppImage](https://github.com/EstySD/FilmCountour/releases/download/v1.0.31/FilmCountour-1.0.31-x86_64.AppImage) |
+| Android 8.0+ | **0.5.0** | [Подписанный APK](https://github.com/EstySD/FilmCountour/releases/download/v1.0.31/FilmCountour-Android-0.5.0.apk) |
 
-[Что изменилось в v1.0.2](https://github.com/EstySD/FilmCountour/releases/tag/v1.0.2)
-· [Контрольные суммы SHA-256](https://github.com/EstySD/FilmCountour/releases/download/v1.0.2/SHA256SUMS)
+[Что изменилось в v1.0.31](https://github.com/EstySD/FilmCountour/releases/tag/v1.0.31)
+· [Контрольные суммы SHA-256](https://github.com/EstySD/FilmCountour/releases/download/v1.0.31/SHA256SUMS)
 
 ## Возможности
 
@@ -46,11 +46,11 @@ FilmCountour — приложение для поиска и просмотра 
 **Linux:** скачайте AppImage, разрешите выполнение и запустите его:
 
 ```sh
-chmod +x FilmCountour-1.0.2-x86_64.AppImage
-./FilmCountour-1.0.2-x86_64.AppImage
+chmod +x FilmCountour-1.0.31-x86_64.AppImage
+./FilmCountour-1.0.31-x86_64.AppImage
 ```
 
-Этот AppImage проверен на запуск в Ubuntu 24.04 и Arch Linux.
+AppImage собран на Ubuntu 24.04; запуск проверен на Arch Linux/KDE. Проверка рабочего стола Ubuntu для этой версии не проводилась.
 
 **Android:** установите APK, включите доступ с телефона в настройках FilmCountour
 на ПК и подключитесь из приложения в той же локальной сети. Файлы раздач остаются
@@ -62,3 +62,5 @@ chmod +x FilmCountour-1.0.2-x86_64.AppImage
 [Issues](https://github.com/EstySD/FilmCountour/issues).
 Укажите версию приложения, операционную систему и шаги воспроизведения.
 Не прикладывайте пароли, cookies и другие данные доступа.
+
+Официальные клиенты публикуются только в [GitHub Releases](https://github.com/EstySD/FilmCountour/releases). Прежний сервер загрузок выведен из эксплуатации.
