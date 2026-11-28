@@ -23,12 +23,12 @@ FilmCountour — приложение для поиска и просмотра 
 
 | Платформа | Версия | Скачать |
 | --- | --- | --- |
-| Windows x64 | **1.0.63** | [Установщик .exe](https://github.com/EstySD/FilmCountour/releases/download/v1.0.63/FilmCountour-1.0.63-win64.exe) |
-| Linux x86_64 | **1.0.63** | [AppImage](https://github.com/EstySD/FilmCountour/releases/download/v1.0.63/FilmCountour-1.0.63-x86_64.AppImage) |
-| Android 8.0+ | **0.5.3** | [Подписанный APK](https://github.com/EstySD/FilmCountour/releases/download/v1.0.63/FilmCountour-Android-0.5.3.apk) |
+| Windows x64 | **1.1.0** | [Установщик .exe](https://github.com/EstySD/FilmCountour/releases/download/v1.1.0/FilmCountour-1.1.0-win64.exe) |
+| Linux x86_64 | **1.1.0** | [AppImage](https://github.com/EstySD/FilmCountour/releases/download/v1.1.0/FilmCountour-1.1.0-x86_64.AppImage) |
+| Android 8.0+ | **0.5.3** | [Подписанный APK](https://github.com/EstySD/FilmCountour/releases/download/v1.1.0/FilmCountour-Android-0.5.3.apk) |
 
-[Что изменилось в v1.0.63](https://github.com/EstySD/FilmCountour/releases/tag/v1.0.63)
-· [Контрольные суммы SHA-256](https://github.com/EstySD/FilmCountour/releases/download/v1.0.63/SHA256SUMS)
+[Что изменилось в v1.1.0](https://github.com/EstySD/FilmCountour/releases/tag/v1.1.0)
+· [Контрольные суммы SHA-256](https://github.com/EstySD/FilmCountour/releases/download/v1.1.0/SHA256SUMS)
 
 ## Возможности
 
@@ -46,8 +46,8 @@ FilmCountour — приложение для поиска и просмотра 
 **Linux:** скачайте AppImage, разрешите выполнение и запустите его:
 
 ```sh
-chmod +x FilmCountour-1.0.63-x86_64.AppImage
-./FilmCountour-1.0.63-x86_64.AppImage
+chmod +x FilmCountour-1.1.0-x86_64.AppImage
+./FilmCountour-1.1.0-x86_64.AppImage
 ```
 
 AppImage собран на Ubuntu 24.04; запуск проверен на Arch Linux/KDE. Проверка рабочего стола Ubuntu для этой версии не проводилась.
